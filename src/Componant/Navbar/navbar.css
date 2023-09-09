@@ -1,0 +1,22 @@
+.navbar{
+    background-color:#e6ffff;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+}
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color:  #1a8cff;
+    margin-left: 50px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+
+}
+.logo{
+    height: 40px;
+    width: 40px;
+}
